@@ -5,4 +5,4 @@
 # I have taken care of all the things to keep this bot pretending to be real but still in some case one can face ban
 # Selenium and time modules are used in this script
 # I am trying these things to make digital marketing connected with automation.
-# Thankyou! Ebjoy this python code.
+# Thankyou! Enjoy this python code.
